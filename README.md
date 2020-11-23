@@ -1,6 +1,6 @@
 ### About Me 👋
 
-Here are some ideas to get you started:
+Android Developer. (Java, Kotlin, jetpack compose).
 
 - 🔭 I’m currently working as a freelance Android Developer
 - 🌱 I’m currently learning Jetpack Compose
